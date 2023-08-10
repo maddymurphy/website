@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am currently in my senior year at the University of Minnesota, majoring in Chemical Engineering, pursing minors in both Mathematics and Chemistry. I am expected to graduate May of 2024 with Latin Honors. I am an undergraduate researchers working with Prof. Paul Dauenhauer on a project funded by the Center for Programmable Energy Catalysis. My research focuses on simualtion of a loop reaction on a dynamic catalyst surface, exploring the parameter space to develop an understanding of how catalyst perturbation can induce net flow of molecules about the reactive loop. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am currently applying to a number of graduate programs to pursue a PhD in Chemical Engineering. My research interests include computational catalysis, electrocatalysis, and machine learning. I intend to pursue research on machine learning methods to help deepen the understanding of electrocatalyst design and increase the efficiency of the search for novel electrocataylsts for application in energy-related electrocatalytic conversion of small molecules. 
+
+Prior to my undergraduate studies in Minnesota, I grew up in Lakewood, CO. 
