@@ -3,7 +3,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-Linked is my [full CV](/documents/CV_2023-08-11.pdf){:target="_blank"} and [resume](/documents/Resume_2023-08-11.pdf){:target="_blank"}.
+Click here for my [full CV](/documents/CV_2023-08-11.pdf){:target="_blank"} and [resume](/documents/Resume_2023-08-11.pdf){:target="_blank"}.
 ### Education
 - B.S. in Chemical Engineering, University of Minnesota (Expected May 2024)
     - Advisor: Paul Dauenhauer
