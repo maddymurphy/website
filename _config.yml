@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/Murphy_headshot.jpg"
   bio    : "Undergraduate student at the University of Minnesota, pursing a Bachelor's in Chemical Engineering expected May 2024."
   links:
-    - label: "Website"
+    - label: "Dauenhauer Research Group"
       icon: "fas fa-fw fa-link"
-      url: "https://maddymurphy.github.io"
+      url: "https://dauenhauer.cems.umn.edu/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/maddymurphy62"
