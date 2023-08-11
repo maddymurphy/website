@@ -3,4 +3,13 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-** Insert CV here
+[Full CV](/documents/CV_2023-08-11.pdf)
+[Full Resume](/documents/Resume_2023-08-11.pdf)
+### Education
+- B.S. in Chemical Engineering, University of Minnesota (Expected May 2024)
+    - Advisor: Paul Dauenhauer
+    - Honors Thesis: in progress
+
+### Professional Experience
+- R&D Intern at ABV Technologies - Saint Paul, MN (Summer 2022)
+- Chemistry Laboratoy Intern at Leprino Foods Co. - Denver, CO (Summer 2021)
