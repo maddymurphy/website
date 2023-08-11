@@ -4,6 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 [Full CV](/documents/CV_2023-08-11.pdf){:target="_blank"}
+
 [Full Resume](/documents/Resume_2023-08-11.pdf){:target="_blank"}
 ### Education
 - B.S. in Chemical Engineering, University of Minnesota (Expected May 2024)
